@@ -3,3 +3,4 @@ testing 3 text second commit
 testing 3 text
 testing 3 text2
 testing 3 text first commit
+testing 3 Stash
